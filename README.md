@@ -52,16 +52,6 @@ currently:
 
 </div>
 
-<!-- Featured Project -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" /> Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Pluto731/my-llm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pluto731&repo=my-llm&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=7873f5&text_color=c9d1d9" />
-</a>
-
-</div>
 
 <!-- Skills -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM Skill Tree
@@ -98,15 +88,6 @@ LLM Engineer
           └── NPU                   · Edge Deploy · Optimization
 ```
 
-<!-- GitHub Stats -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="30" /> GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pluto731&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=7873f5&text_color=c9d1d9&ring_color=ff6ec7" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto731&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" />
-
-</div>
 
 <!-- Activity Graph -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="30" /> Activity
