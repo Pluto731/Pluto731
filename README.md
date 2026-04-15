@@ -63,36 +63,39 @@ currently:
 
 </div>
 
-<table align="center">
-<tr>
-<td>
-
-```
-🏗️ Architecture    Llama-style Decoder-only
-📊 Parameters      29.37M
-🔤 Tokenizer       Byte-level BPE (8192 vocab)
-⚙️ Components      RoPE + GQA + SwiGLU + RMSNorm
-📉 Pretrain Loss    9.12 → 2.28 (↓75%)
-📉 SFT Loss        3.30 → 1.91 (↓42%)
-🖥️ Hardware        RTX 4060 8GB
-⏱️ Train Time      ~115 min total
-```
-
-</td>
-</tr>
-</table>
-
 <!-- Skills -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> LLM Skill Tree
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM Skill Tree
 
-```text
-⚔️  Pretraining        ████████████████████░░   85%    「预训练」
-🗡️  LoRA / QLoRA       ██████████████████████   95%    「参数高效微调」
-🛡️  RLHF / DPO / GRPO ████████████████░░░░░░   70%    「人类对齐」
-🔮  RAG Systems        ████████████████████░░   85%    「检索增强生成」
-🤖  Agent Frameworks   ██████████████░░░░░░░░   65%    「智能体框架」
-⚡  Inference Optim    ████████████████░░░░░░   70%    「推理加速」
-🎮  NPU Deployment     ████████████████████░░   85%    「端侧部署」
+```
+LLM Engineer
+│
+├─── 🧱  Pretraining
+│         ├── Distributed Training  · Megatron · ZeRO · DDP
+│         ├── Architecture Design   · Llama · RoPE · GQA · SwiGLU
+│         └── Scaling Law           · Data Pipeline · Tokenizer
+│
+├─── ⚔️  Fine-tuning  ★ Core Strength
+│         ├── LoRA / QLoRA          · rank · alpha · target modules
+│         ├── SFT                   · Chat Template · Loss Masking
+│         └── PEFT Zoo              · Adapter · Prefix · DoRA
+│
+├─── 🎯  Alignment
+│         ├── RLHF / PPO            · Actor · Critic · Reward · Ref
+│         ├── DPO / SimPO / ORPO    · Offline · No Critic needed
+│         └── GRPO                  · DeepSeek-R1 · Group Reward
+│
+├─── 🧠  Reasoning
+│         ├── CoT / Self-Consistency · ToT · MCTS
+│         └── PRM / ORM             · Process Reward · o1 / R1
+│
+├─── 🔮  RAG & Agent
+│         ├── RAG                   · Embedding · Reranker · HyDE
+│         ├── Vector DB             · FAISS · Qdrant · GraphRAG
+│         └── Agent                 · ReAct · LangGraph · AutoGen
+│
+└─── ⚡  Deployment
+          ├── Inference             · vLLM · PagedAttention · Quant
+          └── NPU                   · Edge Deploy · Optimization
 ```
 
 <!-- GitHub Stats -->
@@ -102,8 +105,6 @@ currently:
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pluto731&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=7873f5&text_color=c9d1d9&ring_color=ff6ec7" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto731&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pluto731&theme=radical&hide_border=true&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=7873f5&sideLabels=7873f5&currStreakNum=00d4ff&sideNums=00d4ff&dates=555555)](https://git.io/streak-stats)
 
 </div>
 

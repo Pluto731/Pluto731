@@ -63,36 +63,39 @@ location: 中国
 
 </div>
 
-<table align="center">
-<tr>
-<td>
-
-```
-🏗️ 架构         Llama 风格 Decoder-only
-📊 参数量       29.37M
-🔤 分词器       Byte-level BPE（8192 词表）
-⚙️ 核心组件     RoPE + GQA + SwiGLU + RMSNorm
-📉 预训练 Loss   9.12 → 2.28（↓75%）
-📉 SFT Loss     3.30 → 1.91（↓42%）
-🖥️ 硬件         RTX 4060 8GB
-⏱️ 训练时间      约 115 分钟
-```
-
-</td>
-</tr>
-</table>
-
 <!-- 技能树 -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> LLM 技能树
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM 技能树
 
-```text
-⚔️  预训练             ████████████████████░░   85%    Pretraining
-🗡️  LoRA / QLoRA      ██████████████████████   95%    PEFT
-🛡️  RLHF / DPO / GRPO ████████████████░░░░░░   70%    Alignment
-🔮  RAG 检索增强生成    ████████████████████░░   85%    Retrieval
-🤖  Agent 智能体框架   ██████████████░░░░░░░░   65%    Agent
-⚡  推理加速优化       ████████████████░░░░░░   70%    Inference
-🎮  NPU 端侧部署      ████████████████████░░   85%    Deployment
+```
+大模型工程师
+│
+├─── 🧱  预训练
+│         ├── 分布式训练     · Megatron · ZeRO · DDP
+│         ├── 架构设计       · Llama · RoPE · GQA · SwiGLU
+│         └── Scaling Law   · 数据工程 · Tokenizer
+│
+├─── ⚔️  微调  ★ 核心竞争力
+│         ├── LoRA / QLoRA  · rank · alpha · target modules
+│         ├── SFT           · Chat Template · Loss Masking
+│         └── PEFT 家族     · Adapter · Prefix · DoRA
+│
+├─── 🎯  对齐
+│         ├── RLHF / PPO    · Actor · Critic · Reward · Ref
+│         ├── DPO / SimPO   · 离线对齐 · 无需 Critic
+│         └── GRPO          · DeepSeek-R1 · 组内相对奖励
+│
+├─── 🧠  推理能力
+│         ├── CoT / Self-Consistency · ToT · MCTS
+│         └── PRM / ORM     · 过程奖励 · o1 / R1
+│
+├─── 🔮  RAG & Agent
+│         ├── RAG           · Embedding · Reranker · HyDE
+│         ├── 向量数据库    · FAISS · Qdrant · GraphRAG
+│         └── Agent         · ReAct · LangGraph · AutoGen
+│
+└─── ⚡  工程部署
+          ├── 推理加速      · vLLM · PagedAttention · 量化
+          └── NPU 端侧      · 边缘推理 · 性能优化
 ```
 
 <!-- GitHub 统计 -->
@@ -102,8 +105,6 @@ location: 中国
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pluto731&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=7873f5&text_color=c9d1d9&ring_color=ff6ec7&locale=cn" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto731&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9&langs_count=8&locale=cn" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pluto731&theme=radical&hide_border=true&background=0d1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=7873f5&sideLabels=7873f5&currStreakNum=00d4ff&sideNums=00d4ff&dates=555555&locale=zh_Hans)](https://git.io/streak-stats)
 
 </div>
 
