@@ -56,7 +56,7 @@ currently:
 <!-- Skills -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM Skill Tree
 
-```
+<pre>
 LLM Engineer
 │
 ├─── 🧱  Pretraining
@@ -86,7 +86,7 @@ LLM Engineer
 └─── ⚡  Deployment
           ├── Inference             · vLLM · PagedAttention · Quant
           └── NPU                   · Edge Deploy · Optimization
-```
+</pre>
 
 
 <!-- Activity Graph -->

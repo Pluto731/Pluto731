@@ -56,7 +56,7 @@ location: 中国
 <!-- 技能树 -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM 技能树
 
-```
+<pre>
 大模型工程师
 │
 ├─── 🧱  预训练
@@ -86,7 +86,7 @@ location: 中国
 └─── ⚡  工程部署
           ├── 推理加速      · vLLM · PagedAttention · 量化
           └── NPU 端侧      · 边缘推理 · 性能优化
-```
+</pre>
 
 
 <!-- 活动图 -->
