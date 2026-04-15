@@ -54,7 +54,7 @@ currently:
 
 
 <!-- Skills -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM Skill Tree
+## 🌲 LLM Skill Tree
 
 <pre>
 LLM Engineer

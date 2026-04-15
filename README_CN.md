@@ -54,7 +54,7 @@ location: 中国
 
 
 <!-- 技能树 -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Evergreen%20Tree.png" width="30" /> LLM 技能树
+## 🌲 LLM 技能树
 
 <pre>
 大模型工程师
