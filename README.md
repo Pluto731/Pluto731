@@ -1,5 +1,7 @@
 <div align="center">
 
+**[English](README.md)** | **[中文](README_CN.md)**
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=650&lines=LLM+Algorithm+Engineer;LoRA+%7C+CoT+%7C+RLHF+%7C+RAG+%7C+Agent;Building+LLMs+from+Scratch)](https://git.io/typing-svg)
 
 </div>
